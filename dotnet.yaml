@@ -1,1 +1,2 @@
 uri: "https://github.com/dotnet/runtime/archive/refs/tags/v6.0.3.tar.gz"
+sudo_necessary: true
