@@ -1,3 +1,1 @@
 uri: "https://github.com/PowerShell/PowerShell/releases/download/v7.2.2/powershell-7.2.2-linux-x64.tar.gz"
-depends: 
-   - "dotnet"
